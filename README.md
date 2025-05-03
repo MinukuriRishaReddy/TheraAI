@@ -29,10 +29,10 @@ Welcome to **TheraAI**, the intelligent healthcare companion that tailors treatm
 | Layer | Stack |
 |-------|-------|
 | **Frontend** | React.js, Tailwind CSS |
-| **Backend** | Flask / Node.js, Python ML APIs |
-| **AI/ML** | PyTorch, SHAP, Deep Metric Learning, XGBoost |
+| **Backend** | Express.js, Node.js, Python ML APIs |
+| **AI/ML** | PyTorch, Deep Metric Learning, ML Calssification Algorithms |
 | **Database** | PostgreSQL + MongoDB |
-| **Security** | OAuth 2.0, JWT, End-to-End Encryption |
+| **Security** | Crypto HashingEnd-to-End Encryption |
 
 ---
 
