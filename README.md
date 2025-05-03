@@ -60,15 +60,6 @@ Visit `https://peppy-peony-196e4e.netlify.app/`to use TheraAI in your browser.
 
 ---
 
-## 📓 Documentation Highlights
-
-- How it Works: `docs/model_training.md`
-- Data Format Guide: `docs/data_schema.md`
-- Privacy & Compliance: `docs/privacy.md`
-- Deploy on Cloud: `docs/deployment.md`
-
----
-
 ## 🔮 Roadmap
 
 - ♻ Continuous learning from patient feedback
